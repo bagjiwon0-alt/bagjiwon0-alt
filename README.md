@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 아무거나
+
+git config --global user.email "bagjiwon0@gmail.com"
+git config --global user.name "bagjiwon0-alt"

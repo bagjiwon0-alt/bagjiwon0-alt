@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 git config --global user.email "bagjiwon0@gmail.com"
 git config --global user.name "bagjiwon0-alt"
 
-Feature/b 기능 개발 완료
+Feature/bb 기능 개발 완료
